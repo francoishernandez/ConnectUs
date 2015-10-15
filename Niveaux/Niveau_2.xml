@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<niveau>
+	<bloc>
+		<type>BlocTranslate</type>
+		<X>3</X>
+		<Y>0</Y>
+		<nord>3</nord>
+		<est>0</est>
+		<sud>0</sud>
+		<ouest>1</ouest>
+	</bloc>
+	<bloc>
+		<type>BlocTranslate</type>
+		<X>0</X>
+		<Y>1</Y>
+		<nord>3</nord>
+		<est>1</est>
+		<sud>0</sud>
+		<ouest>0</ouest>
+	</bloc>
+	<bloc>
+		<type>BlocTranslate</type>
+		<X>1</X>
+		<Y>1</Y>
+		<nord>0</nord>
+		<est>0</est>
+		<sud>3</sud>
+		<ouest>1</ouest>
+	</bloc>
+	<bloc>
+		<type>BlocTranslate</type>
+		<X>1</X>
+		<Y>2</Y>
+		<nord>0</nord>
+		<est>1</est>
+		<sud>3</sud>
+		<ouest>0</ouest>
+	</bloc>
+</niveau>
+	

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<niveau>
+	<bloc>
+		<type>BlocPivote</type>
+		<X>0</X>
+		<Y>0</Y>
+		<nord>4</nord>
+		<est>0</est>
+		<sud>0</sud>
+		<ouest>3</ouest>
+	</bloc>
+	<bloc>
+		<type>BlocPivote</type>
+		<X>1</X>
+		<Y>0</Y>
+		<nord>3</nord>
+		<est>0</est>
+		<sud>0</sud>
+		<ouest>0</ouest>
+	</bloc>
+	<bloc>
+		<type>BlocPivote</type>
+		<X>0</X>
+		<Y>1</Y>
+		<nord>0</nord>
+		<est>0</est>
+		<sud>4</sud>
+		<ouest>0</ouest>
+	</bloc>
+</niveau>
+	
